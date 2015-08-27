@@ -1,2 +1,3 @@
 I am learnig some skills about Git.
 Creating a new branch is quick.
+The Dev distribute.
